@@ -1,0 +1,11 @@
+.rbc-event {
+  background-color: #0eabbc;
+}
+
+.rbc-month-view .rbc-selected-cell {
+  background-color: #0eabbc;
+}
+
+.rbc-timeslot-group.rbc-selected {
+  background-color: #0eabbc;
+}
