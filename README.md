@@ -14,7 +14,7 @@ Meeting planner.
 ## Installation
 
 ```bash
-$ yarn install
+$ yarn
 ```
 
 ## Running the backend app
