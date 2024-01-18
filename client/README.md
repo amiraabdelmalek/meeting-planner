@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This front end project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Front End of Meeting Planner
 
 ## Available Scripts
 

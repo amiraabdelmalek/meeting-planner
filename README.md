@@ -39,10 +39,9 @@ Open [http://localhost:3005/api](http://localhost:3005/api) to view it in the br
 # development
 $ yarn start:frontend
 ```
-Runs the frotn end app in the development mode.\
+Runs the front end app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Support
 
 - Author - Amira Abdelmalek
 
