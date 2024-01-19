@@ -2,7 +2,7 @@ import { MeetingType } from '@models/MeetingType';
 import { Reservation } from '@models/Reservation';
 import { ReservationDto } from '@models/Reservation.dto';
 
-const API_BASE_URL = 'http://192.168.100.3:3005';
+const API_BASE_URL = 'http://localhost:3005';
 
 export const getReservations = async (): Promise<Reservation[]> => {
   try {
